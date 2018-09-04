@@ -1,3 +1,5 @@
+package emoticonpackage;
+
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
@@ -62,7 +64,7 @@ public class EmoticonPackageModel implements Serializable {
 
     @Override
     public String toString() {
-        return "EmoticonPackageModel{" +
+        return "emoticonpackage.EmoticonPackageModel{" +
                 "imgTitle='" + imgTitle + '\'' +
                 ", imgUrls=" + imgUrls +
                 ", crawlerUrl='" + crawlerUrl + '\'' +

@@ -1,3 +1,5 @@
+package emoticonpackage;
+
 /**
  * @Author: xiong.qiu
  * @Date: 2018/8/23 13:36
